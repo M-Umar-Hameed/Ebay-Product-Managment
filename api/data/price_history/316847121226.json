@@ -1,0 +1,19 @@
+{
+  "itemId": "316847121226",
+  "title": "McKesson P230023 Pillowcase",
+  "currency": "USD",
+  "priceHistory": [
+    {
+      "price": 170,
+      "date": "2025-06-05T21:35:52.781Z",
+      "changeType": "snapshot"
+    },
+    {
+      "price": 170,
+      "date": "2025-06-05T21:41:55.944Z",
+      "changeType": "manual_snapshot",
+      "notes": "Price observed on website"
+    }
+  ],
+  "lastUpdated": "2025-06-05T21:41:55.944Z"
+}
